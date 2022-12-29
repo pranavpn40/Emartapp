@@ -1,5 +1,8 @@
 # emart-app
 
+containerize a microservice application.
+
+
 Launch a EC2 instance 
 Ubuntu OS
 Put the above script in advance option 
